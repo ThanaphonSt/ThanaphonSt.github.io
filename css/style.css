@@ -175,8 +175,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/62120803_2321168497941911_3210313093972230144_o.jpg) no-repeat center center;
-	background-color: #e5e5e5;
+	/* background: url(../img/loading2.jpg) no-repeat center center; */
+	background-color: #000000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
